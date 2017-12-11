@@ -1,4 +1,4 @@
-# spyc
+# sPyC
 Python tools for FPGAs
 
 # Licensing
